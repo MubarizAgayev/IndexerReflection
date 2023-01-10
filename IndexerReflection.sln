@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerReflection", "IndexerReflection\IndexerReflection.csproj", "{C5F29535-5498-4CAE-A087-C24F9B546FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{B78F47AA-2C4F-4910-8628-DF3F4E0C3178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F29535-5498-4CAE-A087-C24F9B546FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F29535-5498-4CAE-A087-C24F9B546FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F29535-5498-4CAE-A087-C24F9B546FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F29535-5498-4CAE-A087-C24F9B546FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78F47AA-2C4F-4910-8628-DF3F4E0C3178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78F47AA-2C4F-4910-8628-DF3F4E0C3178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78F47AA-2C4F-4910-8628-DF3F4E0C3178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78F47AA-2C4F-4910-8628-DF3F4E0C3178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB65D4ED-CF16-4F9C-9B5B-F67A19F6314B}
+	EndGlobalSection
+EndGlobal
